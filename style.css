@@ -159,3 +159,8 @@ body {
     grid-template-columns: 1fr; /* Inputs stack on small screens */
   }
 }
+.form-card {
+  color: blue;
+  font-weight: bolder;
+  font-weight: 400;
+}
