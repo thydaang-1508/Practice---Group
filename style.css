@@ -164,3 +164,14 @@ body {
   font-weight: bolder;
   font-weight: 400;
 }
+.icon-check {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3b30e5;
+  color: white;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  font-weight: bold;
+}
